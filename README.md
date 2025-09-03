@@ -71,10 +71,17 @@
 
 ###
 
-<img align="right" height="150" src="https://i.redd.it/i5eqdtk854s21.jpg"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Cairo74/Cairo74/output/snake.svg" alt="Snake animation" />
+<table>
+  <tr>
+    <td>
+      <picture>
+         <img src="https://raw.githubusercontent.com/Cairo74/Cairo74/output/snake.svg" alt="Snake animation" />
+      </picture>
+    </td>
+    <td>
+      <img src="https://i.redd.it/i5eqdtk854s21.jpg" height="150" />
+    </td>
+  </tr>
+</table>
 
 ###
